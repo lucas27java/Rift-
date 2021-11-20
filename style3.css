@@ -1,0 +1,16 @@
+@charset "UTF-*";
+
+body{background-color: #E5FA8D;}
+
+h1{border: solid;
+    background: aliceblue;
+    border-radius: 6px;
+    width: 809px;
+    text-align: center;
+    margin: 274px 2px 1px;
+    height: 43px;}
+
+div{
+    display: flex;
+    justify-content: center;
+    }
